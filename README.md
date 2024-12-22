@@ -1,11 +1,11 @@
-# Data Scientist
+# AI Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Machine learning, computer vision , NLP
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.S., Artificial Intelligence | Khawaja Fareed University of Engineering and information Technology (_March 2022 to 2026_)								       		
+- FSC., Pre.Medical	| Punjab group of collages sadiqabad (_December 2019_)	 			        		
+- HSSC., Sciences | GOVT HSSC talib hussain shah (_May 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
